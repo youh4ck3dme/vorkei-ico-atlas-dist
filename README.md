@@ -1,9 +1,11 @@
-# VORKEI IČO ATLAS 2.2.0-rc.7
+# VORKEI IČO ATLAS
 
-Toto nie je stabilný predaj. Je to skúšobný ZIP.
+Aktuálny balík je **2.2.0-rc.8**. Nie je to stabilný predaj.
 
-Súbor: [vorkei-ico-atlas-2.2.0-rc.7.zip](vorkei-ico-atlas-2.2.0-rc.7.zip)
+Súbor: [vorkei-ico-atlas-2.2.0-rc.8.zip](vorkei-ico-atlas-2.2.0-rc.8.zip)
 
-SHA-256 je v `SHA256.txt`. Finálny prompt, ktorým balík vznikol, je v `PROMPT-FINAL.md`.
+SHA-256 je v `SHA256.txt`. Zdrojáky sú v súkromnom [youh4ck3dme/vorkei-ico-atlas](https://github.com/youh4ck3dme/vorkei-ico-atlas).
 
-WordPress, MariaDB, WooCommerce, HPOS, JetForm a živé registre na týchto bajtoch v tomto behu nebežali.
+Produkčný prompt na odstránenie blockerov: [PROMPT-PRODUKCIA-BLOCKERY.md](PROMPT-PRODUKCIA-BLOCKERY.md).
+
+Starší balík 2.2.0-rc.7 ostáva v histórii tohto repa.
